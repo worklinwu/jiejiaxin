@@ -1,0 +1,1 @@
+var commonJs={initNav:function(){$(".js-btn-nav").on("click",function(){var n=$(this),o=n.parent();o.toggleClass("active")})},initSideControl:function(){$(".js-gotop").on("click",function(){$(document.body).add(document.documentElement).animate({scrollTop:0},300)})}};
