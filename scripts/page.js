@@ -1,0 +1,1 @@
+$(function(){commonJs.initNav();commonJs.initSideControl()});
